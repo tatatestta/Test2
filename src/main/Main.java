@@ -5,6 +5,5 @@ public class Main {
         System.out.println("Hello world !!!!!");
         int[] array = {1, 2, 4, 4, 7};
         System.out.println("Hiiiiiii");
-        System.out.println(123789076);
     }
 }
